@@ -1,6 +1,6 @@
 # demo
-hello everyone !
+echo "hello everyone !"
 
 
 
-see the change
+echo "see the change"
