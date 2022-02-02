@@ -1,4 +1,4 @@
-# demo
+#!/bin/bash
 echo "hello everyone !"
 
 echo " trying polling"
