@@ -1,3 +1,6 @@
-red yellow orange
-apple banana pear
-cow zebra horse
+#!/bin/bash
+echo "hello everyone !"
+
+echo " trying polling"
+
+echo "see the change"
