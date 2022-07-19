@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 first_name=$1
 
 echo "$first_name is a friend"
