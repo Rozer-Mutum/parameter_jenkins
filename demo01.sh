@@ -1,6 +1,6 @@
 #!/bin/sh
-echo "hello everyone !"
+first_name=$1
 
-echo " trying polling"
+echo " $first_name is a friend "
 
 echo "see the change"
